@@ -36,3 +36,4 @@ Here are all the things I'd like to do:
 - Self-Attention with Relative Position Representations
 - Self-attention Does Not Need O(n2) Memory
 - Oneline softmax papers
+- Some synthetic data papers or concepts
