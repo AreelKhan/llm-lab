@@ -35,5 +35,5 @@ Here are all the things I'd like to do:
 - One Model To Learn Them All
 - Self-Attention with Relative Position Representations
 - Self-attention Does Not Need O(n2) Memory
-- Oneline softmax papers
+- Online softmax papers
 - Some synthetic data papers or concepts
