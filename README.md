@@ -36,4 +36,6 @@ Here are all the things I'd like to do:
 - Self-Attention with Relative Position Representations
 - Self-attention Does Not Need O(n2) Memory
 - Online softmax papers
-- Some synthetic data papers or concepts
+- Explore synthetic data
+- Explore LLM evaluation
+- Explore LLM interpretability
