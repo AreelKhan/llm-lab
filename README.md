@@ -4,15 +4,24 @@ This is a repo of my experiments and notes while learning about LLMs. I'm starti
 
 # What's done
 
-I've read many papers and a few books in the deep learning and LLM space, but have never committed to learning things deeply or hands on. I plan to change that.  
+I've completed:
+
+- Andrej Karpathy's [Neural Networks: Zero to Hero guide](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=WLr50vjq8ordxLttz).
+- Thoroughly read [The Annotated Transformers](https://nlp.seas.harvard.edu/annotated-transformer/) paper and run the code side-by-side.
+
+I've read:
+
+- Efficiency:
+  - [Flash Attention](https://arxiv.org/abs/2205.14135), [Flash Attention 2](https://arxiv.org/abs/2307.08691), [Flash Attention 3](https://arxiv.org/abs/2407.08608)
+  - [Paged Attention](https://arxiv.org/abs/2309.06180)
+  - [Online Softmax](https://arxiv.org/abs/1805.02867)
+  - [Self-attention Does Not Need O(n2) Memory](https://arxiv.org/abs/2112.05682)
+- Synthetic Data
+  - [GenAI for Synthetic Data Gen: Methods, Challenges and the Future](https://arxiv.org/abs/2403.04190)
+  - [A surver of GenAI for Synthetic Data](https://ieeexplore.ieee.org/abstract/document/10122524)
 
 # What's up next
 Here are all the things I'd like to do:
-
-### Guided tutorials and follow alongs:
-  - Andrej Karpathy's [Neural Networks: Zero to Hero guide](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=WLr50vjq8ordxLttz).
-  - Thoroughly read [The Annotated Transformers](https://nlp.seas.harvard.edu/annotated-transformer/) paper and run the code side-by-side.
-  - Explore the [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) repo.
 
 ### Implementations:
 - Implement FlashAttention myself (in Cuda maybe?)
@@ -29,13 +38,8 @@ Here are all the things I'd like to do:
 - Play around with LLAMA models locally
 
 ### Readings:
-- Reread: Flash Attention 1, 2 and Paged Attention
-- Flash Attention 3
 - Depthwise Seperable Convolutions for NMT
 - One Model To Learn Them All
 - Self-Attention with Relative Position Representations
-- Self-attention Does Not Need O(n2) Memory
-- Online softmax papers
-- Explore synthetic data
 - Explore LLM evaluation
 - Explore LLM interpretability
