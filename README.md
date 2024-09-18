@@ -18,7 +18,11 @@ I've read:
   - [Self-attention Does Not Need O(n2) Memory](https://arxiv.org/abs/2112.05682)
 - Synthetic Data
   - [GenAI for Synthetic Data Gen: Methods, Challenges and the Future](https://arxiv.org/abs/2403.04190)
-  - [A surver of GenAI for Synthetic Data](https://ieeexplore.ieee.org/abstract/document/10122524)
+  - [A survey of GenAI for Synthetic Data](https://ieeexplore.ieee.org/abstract/document/10122524)
+  - [Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning](https://arxiv.org/abs/2211.03044)
+  - [Generating Training Data with Language Models: Towards Zero-Shot Language Understanding](https://arxiv.org/abs/2202.04538)
+- Modelling
+  - [LLaMA](https://arxiv.org/abs/2302.13971)
 
 # What's up next
 Here are all the things I'd like to do:
