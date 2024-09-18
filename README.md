@@ -41,5 +41,8 @@ Here are all the things I'd like to do:
 - Depthwise Seperable Convolutions for NMT
 - One Model To Learn Them All
 - Self-Attention with Relative Position Representations
+- GANs
+- Stable Diffusion
+- KANs
 - Explore LLM evaluation
 - Explore LLM interpretability
